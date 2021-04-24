@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "meow1",
+    "color": "black",
+    "eyecolor": "brown",
+    "breed": "persian"
+  },
+  {
+    "id": 2,
+    "name": "meow2",
+    "color": "white",
+    "eyecolor": "brown",
+    "breed": "siamese"
+  }
+]
