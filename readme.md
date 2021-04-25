@@ -1,3 +1,3 @@
-ObjectToJsonString folder berisikan , bagaimana cara sederhana untuk memparsing Java object menjadi JSON (tanpa menggunakan library), menggunakan package bawaan java.lang.reflect.Field, java.lang.reflect.Method, custom annotation, serta menggunakan stream API dan HashMap
+ObjectToJsonString folder consist of , parsed Java POJO to JSON string (without library), by implementing custom annotation and HashMap
 
-UseLibraryJackson folder berisikan, penggunaan jackson library untuk mengconvert Java Object ke JSON begitupula sebaliknya.
+UseLibraryJackson folder consists of, convert Java POJO to JSON string and vice versa by using Jackson library
